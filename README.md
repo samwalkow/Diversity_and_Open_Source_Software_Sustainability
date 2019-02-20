@@ -6,7 +6,7 @@ Welcome to the Diversity and Open Source Software Sustainability Project (DOSSS)
 
 ## About the Project
 
-There are very few women and minorities contributing to open source software development. Does this affect software success and sustainability? The goal of this project is to work with open source contributors and scientists to understand the effects of a diverse, inclusive group of contributors on open source software development, to help open source projects and project leads improve their communities and build robut software. 
+There are very few women and minorities contributing to open source software development. Does this affect software success and sustainability? The goal of this project is to work with open source contributors and scientists to understand the effects of a diverse, inclusive group of contributors on open source software development, so open source projects and project leads can improve their communities and build robust software.. 
 
 There will be two parts to the project: investigating the lifecycle of open source software and the number of diverse contributors to the software. Exploring the intersection of these two elements will offer insight into what makes open source software sustainable (or not) in the long run, and the nature of the role an inclusive community plays in that sustainability. This will be done using github archive data.   
 
