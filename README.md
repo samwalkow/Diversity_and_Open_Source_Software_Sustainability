@@ -16,3 +16,8 @@ Open Leadership and an openness can help address this problem by helping to defi
 
 My personal goals include designing, building and empowering for others. I hope to solicit ideas and improve my value exchanges with the OL and github community, to foster mutual connections and a positive community. Opening up the project at the design phase will help me work on this, and will also create the best possible version of the project. 
 
+## Open Canvas
+
+Below I have an open canvas plan for my project:
+
+https://docs.google.com/presentation/d/1Vtu5TGwvO_Cgld4HXZ8syxLSHvf9eRx4AJeDbGqkoak/edit?usp=sharing
