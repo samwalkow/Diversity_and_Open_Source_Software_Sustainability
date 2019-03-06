@@ -21,3 +21,11 @@ My personal goals include designing, building and empowering for others. I hope 
 Below I have an open canvas plan for my project:
 
 https://docs.google.com/presentation/d/1Vtu5TGwvO_Cgld4HXZ8syxLSHvf9eRx4AJeDbGqkoak/edit?usp=sharing
+
+## RoadMap
+
+See the project road map and goals here:
+
+https://github.com/samwalkow/Diversity_and_Open_Source_Software_Sustainability/issues/1
+
+
